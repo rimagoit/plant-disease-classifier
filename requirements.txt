@@ -1,9 +1,9 @@
-streamlit
-tensorflow
-tensorflow-macos  # only keep if using on macOS M1/M2, otherwise remove
-numpy
-pillow
-opencv-python
-pandas
-matplotlib
-seaborn
+streamlit==1.45.0
+tensorflow-metal==1.1.0  # Optional, GPU acceleration for Apple Silicon
+numpy==1.26.4
+pillow==11.2.1
+opencv-python==4.11.0.86
+pandas==2.2.3
+matplotlib==3.10.1
+scikit-learn==1.6.1
+seaborn==0.13.2
