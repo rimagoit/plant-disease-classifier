@@ -26,23 +26,6 @@ This project is a machine learning-based web application that classifies plant l
 
 ---
 
-## 📁 Project Structure
-
-plant-leaf-disease-classifier/
-├── main.py # Streamlit web app
-├── model/
-│ └── leaf_disease_model.h5 # Trained CNN model
-├── sample_inputs/ # Sample leaf images
-├── requirements.txt # Project dependencies
-├── README.md # Project documentation
-└── treatment_info.py # Treatment advisory logic
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 How to Run the App Locally
 
 1. **Clone the repository**
