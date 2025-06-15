@@ -1,8 +1,10 @@
-streamlit
-tensorflow
-numpy
-pillow
+
 opencv-python
 pandas
 matplotlib
 seaborn
+python-3.10
+streamlit==1.25.0
+tensorflow==2.11.0
+pillow
+numpy
